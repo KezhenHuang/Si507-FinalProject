@@ -1,0 +1,4751 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "year": "1994",
+        "rating": "9.2",
+        "imdb_id": "tt0111161",
+        "director": "Frank Darabont",
+        "cast": [
+            "Tim Robbins",
+            "Morgan Freeman"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Godfather",
+        "year": "1972",
+        "rating": "9.2",
+        "imdb_id": "tt0068646",
+        "director": "Francis Ford Coppola",
+        "cast": [
+            "Marlon Brando",
+            "Al Pacino"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Dark Knight",
+        "year": "2008",
+        "rating": "9.0",
+        "imdb_id": "tt0468569",
+        "director": "Christopher Nolan",
+        "cast": [
+            "Christian Bale",
+            "Heath Ledger"
+        ],
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "The Godfather Part II",
+        "year": "1974",
+        "rating": "9.0",
+        "imdb_id": "tt0071562",
+        "director": "Francis Ford Coppola",
+        "cast": [
+            "Al Pacino",
+            "Robert De Niro"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "12 Angry Men",
+        "year": "1957",
+        "rating": "9.0",
+        "imdb_id": "tt0050083",
+        "director": "Sidney Lumet",
+        "cast": [
+            "Henry Fonda",
+            "Lee J. Cobb"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Schindler's List",
+        "year": "1993",
+        "rating": "8.9",
+        "imdb_id": "tt0108052",
+        "director": "Steven Spielberg",
+        "cast": [
+            "Liam Neeson",
+            "Ralph Fiennes"
+        ],
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": "2003",
+        "rating": "8.9",
+        "imdb_id": "tt0167260",
+        "director": "Peter Jackson",
+        "cast": [
+            "Elijah Wood",
+            "Viggo Mortensen"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "countries": [
+            "New Zealand",
+            "United States"
+        ]
+    },
+    {
+        "title": "Pulp Fiction",
+        "year": "1994",
+        "rating": "8.8",
+        "imdb_id": "tt0110912",
+        "director": "Quentin Tarantino",
+        "cast": [
+            "John Travolta",
+            "Uma Thurman"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": "2001",
+        "rating": "8.8",
+        "imdb_id": "tt0120737",
+        "director": "Peter Jackson",
+        "cast": [
+            "Elijah Wood",
+            "Ian McKellen"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "countries": [
+            "New Zealand",
+            "United States"
+        ]
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "year": "1966",
+        "rating": "8.8",
+        "imdb_id": "tt0060196",
+        "director": "Sergio Leone",
+        "cast": [
+            "Clint Eastwood",
+            "Eli Wallach"
+        ],
+        "genres": [
+            "Adventure",
+            "Western"
+        ],
+        "countries": [
+            "Italy",
+            "Spain",
+            "West Germany"
+        ]
+    },
+    {
+        "title": "Forrest Gump",
+        "year": "1994",
+        "rating": "8.8",
+        "imdb_id": "tt0109830",
+        "director": "Robert Zemeckis",
+        "cast": [
+            "Tom Hanks",
+            "Robin Wright"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Fight Club",
+        "year": "1999",
+        "rating": "8.7",
+        "imdb_id": "tt0137523",
+        "director": "David Fincher",
+        "cast": [
+            "Brad Pitt",
+            "Edward Norton"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "Germany",
+            "United States"
+        ]
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": "2002",
+        "rating": "8.7",
+        "imdb_id": "tt0167261",
+        "director": "Peter Jackson",
+        "cast": [
+            "Elijah Wood",
+            "Ian McKellen"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "countries": [
+            "New Zealand",
+            "United States"
+        ]
+    },
+    {
+        "title": "Inception",
+        "year": "2010",
+        "rating": "8.7",
+        "imdb_id": "tt1375666",
+        "director": "Christopher Nolan",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "year": "1980",
+        "rating": "8.7",
+        "imdb_id": "tt0080684",
+        "director": "Irvin Kershner",
+        "cast": [
+            "Mark Hamill",
+            "Harrison Ford"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Matrix",
+        "year": "1999",
+        "rating": "8.7",
+        "imdb_id": "tt0133093",
+        "director": "Lana Wachowski",
+        "cast": [
+            "Keanu Reeves",
+            "Laurence Fishburne"
+        ],
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "United States",
+            "Australia"
+        ]
+    },
+    {
+        "title": "Goodfellas",
+        "year": "1990",
+        "rating": "8.7",
+        "imdb_id": "tt0099685",
+        "director": "Martin Scorsese",
+        "cast": [
+            "Robert De Niro",
+            "Ray Liotta"
+        ],
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "year": "1975",
+        "rating": "8.6",
+        "imdb_id": "tt0073486",
+        "director": "Milos Forman",
+        "cast": [
+            "Jack Nicholson",
+            "Louise Fletcher"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Se7en",
+        "year": "1995",
+        "rating": "8.6",
+        "imdb_id": "tt0114369",
+        "director": "David Fincher",
+        "cast": [
+            "Morgan Freeman",
+            "Brad Pitt"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "It's a Wonderful Life",
+        "year": "1946",
+        "rating": "8.6",
+        "imdb_id": "tt0038650",
+        "director": "Frank Capra",
+        "cast": [
+            "James Stewart",
+            "Donna Reed"
+        ],
+        "genres": [
+            "Drama",
+            "Family",
+            "Fantasy"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Seven Samurai",
+        "year": "1954",
+        "rating": "8.6",
+        "imdb_id": "tt0047478",
+        "director": "Akira Kurosawa",
+        "cast": [
+            "Toshir\u00f4 Mifune",
+            "Takashi Shimura"
+        ],
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "countries": [
+            "Japan"
+        ]
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "year": "1991",
+        "rating": "8.6",
+        "imdb_id": "tt0102926",
+        "director": "Jonathan Demme",
+        "cast": [
+            "Jodie Foster",
+            "Anthony Hopkins"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Saving Private Ryan",
+        "year": "1998",
+        "rating": "8.6",
+        "imdb_id": "tt0120815",
+        "director": "Steven Spielberg",
+        "cast": [
+            "Tom Hanks",
+            "Matt Damon"
+        ],
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "City of God",
+        "year": "2002",
+        "rating": "8.6",
+        "imdb_id": "tt0317248",
+        "director": "Fernando Meirelles",
+        "cast": [
+            "Alexandre Rodrigues",
+            "Leandro Firmino"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "Brazil",
+            "France",
+            "Germany"
+        ]
+    },
+    {
+        "title": "Interstellar",
+        "year": "2014",
+        "rating": "8.6",
+        "imdb_id": "tt0816692",
+        "director": "Christopher Nolan",
+        "cast": [
+            "Matthew McConaughey",
+            "Anne Hathaway"
+        ],
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom",
+            "Canada"
+        ]
+    },
+    {
+        "title": "Life Is Beautiful",
+        "year": "1997",
+        "rating": "8.6",
+        "imdb_id": "tt0118799",
+        "director": "Roberto Benigni",
+        "cast": [
+            "Roberto Benigni",
+            "Nicoletta Braschi"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "countries": [
+            "Italy"
+        ]
+    },
+    {
+        "title": "The Green Mile",
+        "year": "1999",
+        "rating": "8.6",
+        "imdb_id": "tt0120689",
+        "director": "Frank Darabont",
+        "cast": [
+            "Tom Hanks",
+            "Michael Clarke Duncan"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Fantasy"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Star Wars",
+        "year": "1977",
+        "rating": "8.5",
+        "imdb_id": "tt0076759",
+        "director": "George Lucas",
+        "cast": [
+            "Mark Hamill",
+            "Harrison Ford"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "year": "1991",
+        "rating": "8.5",
+        "imdb_id": "tt0103064",
+        "director": "James Cameron",
+        "cast": [
+            "Arnold Schwarzenegger",
+            "Linda Hamilton"
+        ],
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Back to the Future",
+        "year": "1985",
+        "rating": "8.5",
+        "imdb_id": "tt0088763",
+        "director": "Robert Zemeckis",
+        "cast": [
+            "Michael J. Fox",
+            "Christopher Lloyd"
+        ],
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Spirited Away",
+        "year": "2001",
+        "rating": "8.5",
+        "imdb_id": "tt0245429",
+        "director": "Hayao Miyazaki",
+        "cast": [
+            "Daveigh Chase",
+            "Suzanne Pleshette"
+        ],
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "countries": [
+            "Japan"
+        ]
+    },
+    {
+        "title": "The Pianist",
+        "year": "2002",
+        "rating": "8.5",
+        "imdb_id": "tt0253474",
+        "director": "Roman Polanski",
+        "cast": [
+            "Adrien Brody",
+            "Thomas Kretschmann"
+        ],
+        "genres": [
+            "Biography",
+            "Drama",
+            "Music"
+        ],
+        "countries": [
+            "France",
+            "Poland",
+            "Germany",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Psycho",
+        "year": "1960",
+        "rating": "8.5",
+        "imdb_id": "tt0054215",
+        "director": "Alfred Hitchcock",
+        "cast": [
+            "Anthony Perkins",
+            "Janet Leigh"
+        ],
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Parasite",
+        "year": "2019",
+        "rating": "8.5",
+        "imdb_id": "tt6751668",
+        "director": "Bong Joon Ho",
+        "cast": [
+            "Song Kang-ho",
+            "Lee Sun-kyun"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "countries": [
+            "South Korea"
+        ]
+    },
+    {
+        "title": "L\u00e9on: The Professional",
+        "year": "1994",
+        "rating": "8.5",
+        "imdb_id": "tt0110413",
+        "director": "Luc Besson",
+        "cast": [
+            "Jean Reno",
+            "Gary Oldman"
+        ],
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "France",
+            "United States"
+        ]
+    },
+    {
+        "title": "The Lion King",
+        "year": "1994",
+        "rating": "8.5",
+        "imdb_id": "tt0110357",
+        "director": "Roger Allers",
+        "cast": [
+            "Matthew Broderick",
+            "Jeremy Irons"
+        ],
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Gladiator",
+        "year": "2000",
+        "rating": "8.5",
+        "imdb_id": "tt0172495",
+        "director": "Ridley Scott",
+        "cast": [
+            "Russell Crowe",
+            "Joaquin Phoenix"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom",
+            "Malta",
+            "Morocco"
+        ]
+    },
+    {
+        "title": "American History X",
+        "year": "1998",
+        "rating": "8.5",
+        "imdb_id": "tt0120586",
+        "director": "Tony Kaye",
+        "cast": [
+            "Edward Norton",
+            "Edward Furlong"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Departed",
+        "year": "2006",
+        "rating": "8.5",
+        "imdb_id": "tt0407887",
+        "director": "Martin Scorsese",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Matt Damon"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "countries": [
+            "United States",
+            "Hong Kong"
+        ]
+    },
+    {
+        "title": "Whiplash",
+        "year": "2014",
+        "rating": "8.5",
+        "imdb_id": "tt2582802",
+        "director": "Damien Chazelle",
+        "cast": [
+            "Miles Teller",
+            "J.K. Simmons"
+        ],
+        "genres": [
+            "Drama",
+            "Music"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Prestige",
+        "year": "2006",
+        "rating": "8.5",
+        "imdb_id": "tt0482571",
+        "director": "Christopher Nolan",
+        "cast": [
+            "Christian Bale",
+            "Hugh Jackman"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    {
+        "title": "The Usual Suspects",
+        "year": "1995",
+        "rating": "8.5",
+        "imdb_id": "tt0114814",
+        "director": "Bryan Singer",
+        "cast": [
+            "Kevin Spacey",
+            "Gabriel Byrne"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "countries": [
+            "United States",
+            "Germany"
+        ]
+    },
+    {
+        "title": "Casablanca",
+        "year": "1942",
+        "rating": "8.5",
+        "imdb_id": "tt0034583",
+        "director": "Michael Curtiz",
+        "cast": [
+            "Humphrey Bogart",
+            "Ingrid Bergman"
+        ],
+        "genres": [
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Grave of the Fireflies",
+        "year": "1988",
+        "rating": "8.5",
+        "imdb_id": "tt0095327",
+        "director": "Isao Takahata",
+        "cast": [
+            "Tsutomu Tatsumi",
+            "Ayano Shiraishi"
+        ],
+        "genres": [
+            "Animation",
+            "Drama",
+            "War"
+        ],
+        "countries": [
+            "Japan"
+        ]
+    },
+    {
+        "title": "Harakiri",
+        "year": "1962",
+        "rating": "8.5",
+        "imdb_id": "tt0056058",
+        "director": "Masaki Kobayashi",
+        "cast": [
+            "Tatsuya Nakadai",
+            "Akira Ishihama"
+        ],
+        "genres": [
+            "Action",
+            "Drama",
+            "Mystery"
+        ],
+        "countries": [
+            "Japan"
+        ]
+    },
+    {
+        "title": "The Intouchables",
+        "year": "2011",
+        "rating": "8.5",
+        "imdb_id": "tt1675434",
+        "director": "Olivier Nakache",
+        "cast": [
+            "Fran\u00e7ois Cluzet",
+            "Omar Sy"
+        ],
+        "genres": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ],
+        "countries": [
+            "France"
+        ]
+    },
+    {
+        "title": "Modern Times",
+        "year": "1936",
+        "rating": "8.4",
+        "imdb_id": "tt0027977",
+        "director": "Charles Chaplin",
+        "cast": [
+            "Charles Chaplin",
+            "Paulette Goddard"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Once Upon a Time in the West",
+        "year": "1968",
+        "rating": "8.4",
+        "imdb_id": "tt0064116",
+        "director": "Sergio Leone",
+        "cast": [
+            "Henry Fonda",
+            "Charles Bronson"
+        ],
+        "genres": [
+            "Western"
+        ],
+        "countries": [
+            "Italy",
+            "United States"
+        ]
+    },
+    {
+        "title": "Cinema Paradiso",
+        "year": "1988",
+        "rating": "8.4",
+        "imdb_id": "tt0095765",
+        "director": "Giuseppe Tornatore",
+        "cast": [
+            "Philippe Noiret",
+            "Enzo Cannavale"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "countries": [
+            "Italy",
+            "France"
+        ]
+    },
+    {
+        "title": "Rear Window",
+        "year": "1954",
+        "rating": "8.4",
+        "imdb_id": "tt0047396",
+        "director": "Alfred Hitchcock",
+        "cast": [
+            "James Stewart",
+            "Grace Kelly"
+        ],
+        "genres": [
+            "Mystery",
+            "Thriller"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Alien",
+        "year": "1979",
+        "rating": "8.4",
+        "imdb_id": "tt0078748",
+        "director": "Ridley Scott",
+        "cast": [
+            "Sigourney Weaver",
+            "Tom Skerritt"
+        ],
+        "genres": [
+            "Horror",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    {
+        "title": "City Lights",
+        "year": "1931",
+        "rating": "8.4",
+        "imdb_id": "tt0021749",
+        "director": "Charles Chaplin",
+        "cast": [
+            "Charles Chaplin",
+            "Virginia Cherrill"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Apocalypse Now",
+        "year": "1979",
+        "rating": "8.4",
+        "imdb_id": "tt0078788",
+        "director": "Francis Ford Coppola",
+        "cast": [
+            "Martin Sheen",
+            "Marlon Brando"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery",
+            "War"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Memento",
+        "year": "2000",
+        "rating": "8.4",
+        "imdb_id": "tt0209144",
+        "director": "Christopher Nolan",
+        "cast": [
+            "Guy Pearce",
+            "Carrie-Anne Moss"
+        ],
+        "genres": [
+            "Mystery",
+            "Thriller"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Django Unchained",
+        "year": "2012",
+        "rating": "8.4",
+        "imdb_id": "tt1853728",
+        "director": "Quentin Tarantino",
+        "cast": [
+            "Jamie Foxx",
+            "Christoph Waltz"
+        ],
+        "genres": [
+            "Drama",
+            "Western"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Raiders of the Lost Ark",
+        "year": "1981",
+        "rating": "8.4",
+        "imdb_id": "tt0082971",
+        "director": "Steven Spielberg",
+        "cast": [
+            "Harrison Ford",
+            "Karen Allen"
+        ],
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "WALL\u00b7E",
+        "year": "2008",
+        "rating": "8.4",
+        "imdb_id": "tt0910970",
+        "director": "Andrew Stanton",
+        "cast": [
+            "Ben Burtt",
+            "Elissa Knight"
+        ],
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "countries": [
+            "United States",
+            "Japan"
+        ]
+    },
+    {
+        "title": "The Lives of Others",
+        "year": "2006",
+        "rating": "8.4",
+        "imdb_id": "tt0405094",
+        "director": "Florian Henckel von Donnersmarck",
+        "cast": [
+            "Ulrich M\u00fche",
+            "Martina Gedeck"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "countries": [
+            "Germany",
+            "France"
+        ]
+    },
+    {
+        "title": "Sunset Blvd.",
+        "year": "1950",
+        "rating": "8.4",
+        "imdb_id": "tt0043014",
+        "director": "Billy Wilder",
+        "cast": [
+            "William Holden",
+            "Gloria Swanson"
+        ],
+        "genres": [
+            "Drama",
+            "Film-Noir"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Paths of Glory",
+        "year": "1957",
+        "rating": "8.4",
+        "imdb_id": "tt0050825",
+        "director": "Stanley Kubrick",
+        "cast": [
+            "Kirk Douglas",
+            "Ralph Meeker"
+        ],
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Shining",
+        "year": "1980",
+        "rating": "8.4",
+        "imdb_id": "tt0081505",
+        "director": "Stanley Kubrick",
+        "cast": [
+            "Jack Nicholson",
+            "Shelley Duvall"
+        ],
+        "genres": [
+            "Drama",
+            "Horror"
+        ],
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    {
+        "title": "The Great Dictator",
+        "year": "1940",
+        "rating": "8.4",
+        "imdb_id": "tt0032553",
+        "director": "Charles Chaplin",
+        "cast": [
+            "Charles Chaplin",
+            "Paulette Goddard"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "War"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "year": "2018",
+        "rating": "8.4",
+        "imdb_id": "tt4154756",
+        "director": "Anthony Russo",
+        "cast": [
+            "Robert Downey Jr.",
+            "Chris Hemsworth"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Witness for the Prosecution",
+        "year": "1957",
+        "rating": "8.4",
+        "imdb_id": "tt0051201",
+        "director": "Billy Wilder",
+        "cast": [
+            "Tyrone Power",
+            "Marlene Dietrich"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Aliens",
+        "year": "1986",
+        "rating": "8.3",
+        "imdb_id": "tt0090605",
+        "director": "James Cameron",
+        "cast": [
+            "Sigourney Weaver",
+            "Michael Biehn"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "year": "2018",
+        "rating": "8.3",
+        "imdb_id": "tt4633694",
+        "director": "Bob Persichetti",
+        "cast": [
+            "Shameik Moore",
+            "Jake Johnson"
+        ],
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "countries": [
+            "Canada",
+            "United States"
+        ]
+    },
+    {
+        "title": "American Beauty",
+        "year": "1999",
+        "rating": "8.3",
+        "imdb_id": "tt0169547",
+        "director": "Sam Mendes",
+        "cast": [
+            "Kevin Spacey",
+            "Annette Bening"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "year": "1964",
+        "rating": "8.3",
+        "imdb_id": "tt0057012",
+        "director": "Stanley Kubrick",
+        "cast": [
+            "Peter Sellers",
+            "George C. Scott"
+        ],
+        "genres": [
+            "Comedy",
+            "War"
+        ],
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "year": "2012",
+        "rating": "8.3",
+        "imdb_id": "tt1345836",
+        "director": "Christopher Nolan",
+        "cast": [
+            "Christian Bale",
+            "Tom Hardy"
+        ],
+        "genres": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Oldboy",
+        "year": "2003",
+        "rating": "8.3",
+        "imdb_id": "tt0364569",
+        "director": "Park Chan-wook",
+        "cast": [
+            "Choi Min-sik",
+            "Yoo Ji-tae"
+        ],
+        "genres": [
+            "Action",
+            "Drama",
+            "Mystery"
+        ],
+        "countries": [
+            "South Korea"
+        ]
+    },
+    {
+        "title": "Inglourious Basterds",
+        "year": "2009",
+        "rating": "8.3",
+        "imdb_id": "tt0361748",
+        "director": "Quentin Tarantino",
+        "cast": [
+            "Brad Pitt",
+            "Diane Kruger"
+        ],
+        "genres": [
+            "Adventure",
+            "Drama",
+            "War"
+        ],
+        "countries": [
+            "Germany",
+            "United States"
+        ]
+    },
+    {
+        "title": "Amadeus",
+        "year": "1984",
+        "rating": "8.3",
+        "imdb_id": "tt0086879",
+        "director": "Milos Forman",
+        "cast": [
+            "F. Murray Abraham",
+            "Tom Hulce"
+        ],
+        "genres": [
+            "Biography",
+            "Drama",
+            "Music"
+        ],
+        "countries": [
+            "United States",
+            "France",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Coco",
+        "year": "2017",
+        "rating": "8.3",
+        "imdb_id": "tt2380307",
+        "director": "Lee Unkrich",
+        "cast": [
+            "Anthony Gonzalez",
+            "Gael Garc\u00eda Bernal"
+        ],
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "countries": [
+            "United States",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Toy Story",
+        "year": "1995",
+        "rating": "8.3",
+        "imdb_id": "tt0114709",
+        "director": "John Lasseter",
+        "cast": [
+            "Tom Hanks",
+            "Tim Allen"
+        ],
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "countries": [
+            "United States",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Braveheart",
+        "year": "1995",
+        "rating": "8.3",
+        "imdb_id": "tt0112573",
+        "director": "Mel Gibson",
+        "cast": [
+            "Mel Gibson",
+            "Sophie Marceau"
+        ],
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Joker",
+        "year": "2019",
+        "rating": "8.3",
+        "imdb_id": "tt7286456",
+        "director": "Todd Phillips",
+        "cast": [
+            "Joaquin Phoenix",
+            "Robert De Niro"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "countries": [
+            "United States",
+            "Canada"
+        ]
+    },
+    {
+        "title": "Das Boot",
+        "year": "1981",
+        "rating": "8.3",
+        "imdb_id": "tt0082096",
+        "director": "Wolfgang Petersen",
+        "cast": [
+            "J\u00fcrgen Prochnow",
+            "Herbert Gr\u00f6nemeyer"
+        ],
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "countries": [
+            "West Germany",
+            "Italy",
+            "France",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Avengers: Endgame",
+        "year": "2019",
+        "rating": "8.3",
+        "imdb_id": "tt4154796",
+        "director": "Anthony Russo",
+        "cast": [
+            "Robert Downey Jr.",
+            "Chris Evans"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Princess Mononoke",
+        "year": "1997",
+        "rating": "8.3",
+        "imdb_id": "tt0119698",
+        "director": "Hayao Miyazaki",
+        "cast": [
+            "Y\u00f4ji Matsuda",
+            "Yuriko Ishida"
+        ],
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "countries": [
+            "Japan"
+        ]
+    },
+    {
+        "title": "Once Upon a Time in America",
+        "year": "1984",
+        "rating": "8.3",
+        "imdb_id": "tt0087843",
+        "director": "Sergio Leone",
+        "cast": [
+            "Robert De Niro",
+            "James Woods"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "Italy",
+            "United States"
+        ]
+    },
+    {
+        "title": "Good Will Hunting",
+        "year": "1997",
+        "rating": "8.3",
+        "imdb_id": "tt0119217",
+        "director": "Gus Van Sant",
+        "cast": [
+            "Robin Williams",
+            "Matt Damon"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Your Name.",
+        "year": "2016",
+        "rating": "8.3",
+        "imdb_id": "tt5311514",
+        "director": "Makoto Shinkai",
+        "cast": [
+            "Ryunosuke Kamiki",
+            "Mone Kamishiraishi"
+        ],
+        "genres": [
+            "Animation",
+            "Drama",
+            "Fantasy"
+        ],
+        "countries": [
+            "Japan"
+        ]
+    },
+    {
+        "title": "Singin' in the Rain",
+        "year": "1952",
+        "rating": "8.3",
+        "imdb_id": "tt0045152",
+        "director": "Stanley Donen",
+        "cast": [
+            "Gene Kelly",
+            "Donald O'Connor"
+        ],
+        "genres": [
+            "Comedy",
+            "Musical",
+            "Romance"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "3 Idiots",
+        "year": "2009",
+        "rating": "8.3",
+        "imdb_id": "tt1187043",
+        "director": "Rajkumar Hirani",
+        "cast": [
+            "Aamir Khan",
+            "Madhavan"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "countries": [
+            "India"
+        ]
+    },
+    {
+        "title": "Requiem for a Dream",
+        "year": "2000",
+        "rating": "8.3",
+        "imdb_id": "tt0180093",
+        "director": "Darren Aronofsky",
+        "cast": [
+            "Ellen Burstyn",
+            "Jared Leto"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "High and Low",
+        "year": "1963",
+        "rating": "8.3",
+        "imdb_id": "tt0057565",
+        "director": "Akira Kurosawa",
+        "cast": [
+            "Toshir\u00f4 Mifune",
+            "Yutaka Sada"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "countries": [
+            "Japan"
+        ]
+    },
+    {
+        "title": "Toy Story 3",
+        "year": "2010",
+        "rating": "8.3",
+        "imdb_id": "tt0435761",
+        "director": "Lee Unkrich",
+        "cast": [
+            "Tom Hanks",
+            "Tim Allen"
+        ],
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "countries": [
+            "United States",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Capernaum",
+        "year": "2018",
+        "rating": "8.3",
+        "imdb_id": "tt8267604",
+        "director": "Nadine Labaki",
+        "cast": [
+            "Zain Al Rafeea",
+            "Yordanos Shiferaw"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "Lebanon",
+            "France",
+            "Cyprus",
+            "Qatar",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "year": "1983",
+        "rating": "8.3",
+        "imdb_id": "tt0086190",
+        "director": "Richard Marquand",
+        "cast": [
+            "Mark Hamill",
+            "Harrison Ford"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "year": "1968",
+        "rating": "8.3",
+        "imdb_id": "tt0062622",
+        "director": "Stanley Kubrick",
+        "cast": [
+            "Keir Dullea",
+            "Gary Lockwood"
+        ],
+        "genres": [
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": "2004",
+        "rating": "8.3",
+        "imdb_id": "tt0338013",
+        "director": "Michel Gondry",
+        "cast": [
+            "Jim Carrey",
+            "Kate Winslet"
+        ],
+        "genres": [
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Come and See",
+        "year": "1985",
+        "rating": "8.3",
+        "imdb_id": "tt0091251",
+        "director": "Elem Klimov",
+        "cast": [
+            "Aleksey Kravchenko",
+            "Olga Mironova"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller",
+            "War"
+        ],
+        "countries": [
+            "Soviet Union"
+        ]
+    },
+    {
+        "title": "Reservoir Dogs",
+        "year": "1992",
+        "rating": "8.3",
+        "imdb_id": "tt0105236",
+        "director": "Quentin Tarantino",
+        "cast": [
+            "Harvey Keitel",
+            "Tim Roth"
+        ],
+        "genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Hunt",
+        "year": "2012",
+        "rating": "8.3",
+        "imdb_id": "tt2106476",
+        "director": "Thomas Vinterberg",
+        "cast": [
+            "Mads Mikkelsen",
+            "Thomas Bo Larsen"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "Denmark",
+            "Sweden"
+        ]
+    },
+    {
+        "title": "Citizen Kane",
+        "year": "1941",
+        "rating": "8.2",
+        "imdb_id": "tt0033467",
+        "director": "Orson Welles",
+        "cast": [
+            "Orson Welles",
+            "Joseph Cotten"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "year": "1962",
+        "rating": "8.2",
+        "imdb_id": "tt0056172",
+        "director": "David Lean",
+        "cast": [
+            "Peter O'Toole",
+            "Alec Guinness"
+        ],
+        "genres": [
+            "Adventure",
+            "Biography",
+            "Drama"
+        ],
+        "countries": [
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "M",
+        "year": "1931",
+        "rating": "8.2",
+        "imdb_id": "tt0022100",
+        "director": "Fritz Lang",
+        "cast": [
+            "Peter Lorre",
+            "Ellen Widmann"
+        ],
+        "genres": [
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ],
+        "countries": [
+            "Germany"
+        ]
+    },
+    {
+        "title": "Ikiru",
+        "year": "1952",
+        "rating": "8.2",
+        "imdb_id": "tt0044741",
+        "director": "Akira Kurosawa",
+        "cast": [
+            "Takashi Shimura",
+            "Nobuo Kaneko"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "Japan"
+        ]
+    },
+    {
+        "title": "North by Northwest",
+        "year": "1959",
+        "rating": "8.2",
+        "imdb_id": "tt0053125",
+        "director": "Alfred Hitchcock",
+        "cast": [
+            "Cary Grant",
+            "Eva Marie Saint"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Mystery"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Vertigo",
+        "year": "1958",
+        "rating": "8.2",
+        "imdb_id": "tt0052357",
+        "director": "Alfred Hitchcock",
+        "cast": [
+            "James Stewart",
+            "Kim Novak"
+        ],
+        "genres": [
+            "Mystery",
+            "Romance",
+            "Thriller"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Apartment",
+        "year": "1960",
+        "rating": "8.2",
+        "imdb_id": "tt0053604",
+        "director": "Billy Wilder",
+        "cast": [
+            "Jack Lemmon",
+            "Shirley MacLaine"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Am\u00e9lie",
+        "year": "2001",
+        "rating": "8.2",
+        "imdb_id": "tt0211915",
+        "director": "Jean-Pierre Jeunet",
+        "cast": [
+            "Audrey Tautou",
+            "Mathieu Kassovitz"
+        ],
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "countries": [
+            "France",
+            "Germany"
+        ]
+    },
+    {
+        "title": "Double Indemnity",
+        "year": "1944",
+        "rating": "8.2",
+        "imdb_id": "tt0036775",
+        "director": "Billy Wilder",
+        "cast": [
+            "Fred MacMurray",
+            "Barbara Stanwyck"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Film-Noir"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "A Clockwork Orange",
+        "year": "1971",
+        "rating": "8.2",
+        "imdb_id": "tt0066921",
+        "director": "Stanley Kubrick",
+        "cast": [
+            "Malcolm McDowell",
+            "Patrick Magee"
+        ],
+        "genres": [
+            "Crime",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    {
+        "title": "Full Metal Jacket",
+        "year": "1987",
+        "rating": "8.2",
+        "imdb_id": "tt0093058",
+        "director": "Stanley Kubrick",
+        "cast": [
+            "Matthew Modine",
+            "R. Lee Ermey"
+        ],
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    {
+        "title": "Scarface",
+        "year": "1983",
+        "rating": "8.2",
+        "imdb_id": "tt0086250",
+        "director": "Brian De Palma",
+        "cast": [
+            "Al Pacino",
+            "Michelle Pfeiffer"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Hamilton",
+        "year": "2020",
+        "rating": "8.2",
+        "imdb_id": "tt8503618",
+        "director": "Thomas Kail",
+        "cast": [
+            "Lin-Manuel Miranda",
+            "Phillipa Soo"
+        ],
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Incendies",
+        "year": "2010",
+        "rating": "8.2",
+        "imdb_id": "tt1255953",
+        "director": "Denis Villeneuve",
+        "cast": [
+            "Lubna Azabal",
+            "M\u00e9lissa D\u00e9sormeaux-Poulin"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery"
+        ],
+        "countries": [
+            "Canada",
+            "France"
+        ]
+    },
+    {
+        "title": "Heat",
+        "year": "1995",
+        "rating": "8.2",
+        "imdb_id": "tt0113277",
+        "director": "Michael Mann",
+        "cast": [
+            "Al Pacino",
+            "Robert De Niro"
+        ],
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "year": "1962",
+        "rating": "8.2",
+        "imdb_id": "tt0056592",
+        "director": "Robert Mulligan",
+        "cast": [
+            "Gregory Peck",
+            "John Megna"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Up",
+        "year": "2009",
+        "rating": "8.2",
+        "imdb_id": "tt1049413",
+        "director": "Pete Docter",
+        "cast": [
+            "Edward Asner",
+            "Jordan Nagai"
+        ],
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "countries": [
+            "United States",
+            "Japan"
+        ]
+    },
+    {
+        "title": "The Sting",
+        "year": "1973",
+        "rating": "8.2",
+        "imdb_id": "tt0070735",
+        "director": "George Roy Hill",
+        "cast": [
+            "Paul Newman",
+            "Robert Redford"
+        ],
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "A Separation",
+        "year": "2011",
+        "rating": "8.2",
+        "imdb_id": "tt1832382",
+        "director": "Asghar Farhadi",
+        "cast": [
+            "Payman Maadi",
+            "Leila Hatami"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "Iran",
+            "France",
+            "Australia"
+        ]
+    },
+    {
+        "title": "Metropolis",
+        "year": "1927",
+        "rating": "8.2",
+        "imdb_id": "tt0017136",
+        "director": "Fritz Lang",
+        "cast": [
+            "Brigitte Helm",
+            "Alfred Abel"
+        ],
+        "genres": [
+            "Drama",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "Germany"
+        ]
+    },
+    {
+        "title": "Taxi Driver",
+        "year": "1976",
+        "rating": "8.2",
+        "imdb_id": "tt0075314",
+        "director": "Martin Scorsese",
+        "cast": [
+            "Robert De Niro",
+            "Jodie Foster"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "L.A. Confidential",
+        "year": "1997",
+        "rating": "8.2",
+        "imdb_id": "tt0119488",
+        "director": "Curtis Hanson",
+        "cast": [
+            "Kevin Spacey",
+            "Russell Crowe"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Die Hard",
+        "year": "1988",
+        "rating": "8.2",
+        "imdb_id": "tt0095016",
+        "director": "John McTiernan",
+        "cast": [
+            "Bruce Willis",
+            "Alan Rickman"
+        ],
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Indiana Jones and the Last Crusade",
+        "year": "1989",
+        "rating": "8.2",
+        "imdb_id": "tt0097576",
+        "director": "Steven Spielberg",
+        "cast": [
+            "Harrison Ford",
+            "Sean Connery"
+        ],
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Snatch",
+        "year": "2000",
+        "rating": "8.2",
+        "imdb_id": "tt0208092",
+        "director": "Guy Ritchie",
+        "cast": [
+            "Jason Statham",
+            "Brad Pitt"
+        ],
+        "genres": [
+            "Comedy",
+            "Crime"
+        ],
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    {
+        "title": "Bicycle Thieves",
+        "year": "1948",
+        "rating": "8.2",
+        "imdb_id": "tt0040522",
+        "director": "Vittorio De Sica",
+        "cast": [
+            "Lamberto Maggiorani",
+            "Enzo Staiola"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "Italy"
+        ]
+    },
+    {
+        "title": "Like Stars on Earth",
+        "year": "2007",
+        "rating": "8.2",
+        "imdb_id": "tt0986264",
+        "director": "Aamir Khan",
+        "cast": [
+            "Darsheel Safary",
+            "Aamir Khan"
+        ],
+        "genres": [
+            "Drama",
+            "Family"
+        ],
+        "countries": [
+            "India"
+        ]
+    },
+    {
+        "title": "1917",
+        "year": "2019",
+        "rating": "8.2",
+        "imdb_id": "tt8579674",
+        "director": "Sam Mendes",
+        "cast": [
+            "Dean-Charles Chapman",
+            "George MacKay"
+        ],
+        "genres": [
+            "Action",
+            "Drama",
+            "War"
+        ],
+        "countries": [
+            "United Kingdom",
+            "United States",
+            "India",
+            "Spain"
+        ]
+    },
+    {
+        "title": "Top Gun: Maverick",
+        "year": "2022",
+        "rating": "8.2",
+        "imdb_id": "tt1745960",
+        "director": "Joseph Kosinski",
+        "cast": [
+            "Tom Cruise",
+            "Jennifer Connelly"
+        ],
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Downfall",
+        "year": "2004",
+        "rating": "8.2",
+        "imdb_id": "tt0363163",
+        "director": "Oliver Hirschbiegel",
+        "cast": [
+            "Bruno Ganz",
+            "Alexandra Maria Lara"
+        ],
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "countries": [
+            "Germany",
+            "Austria",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Dangal",
+        "year": "2016",
+        "rating": "8.2",
+        "imdb_id": "tt5074352",
+        "director": "Nitesh Tiwari",
+        "cast": [
+            "Aamir Khan",
+            "Sakshi Tanwar"
+        ],
+        "genres": [
+            "Action",
+            "Biography",
+            "Drama"
+        ],
+        "countries": [
+            "India",
+            "United States"
+        ]
+    },
+    {
+        "title": "For a Few Dollars More",
+        "year": "1965",
+        "rating": "8.2",
+        "imdb_id": "tt0059578",
+        "director": "Sergio Leone",
+        "cast": [
+            "Clint Eastwood",
+            "Lee Van Cleef"
+        ],
+        "genres": [
+            "Western"
+        ],
+        "countries": [
+            "Italy",
+            "Spain",
+            "West Germany"
+        ]
+    },
+    {
+        "title": "Batman Begins",
+        "year": "2005",
+        "rating": "8.2",
+        "imdb_id": "tt0372784",
+        "director": "Christopher Nolan",
+        "cast": [
+            "Christian Bale",
+            "Michael Caine"
+        ],
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "The Kid",
+        "year": "1921",
+        "rating": "8.2",
+        "imdb_id": "tt0012349",
+        "director": "Charles Chaplin",
+        "cast": [
+            "Charles Chaplin",
+            "Edna Purviance"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Some Like It Hot",
+        "year": "1959",
+        "rating": "8.2",
+        "imdb_id": "tt0053291",
+        "director": "Billy Wilder",
+        "cast": [
+            "Marilyn Monroe",
+            "Tony Curtis"
+        ],
+        "genres": [
+            "Comedy",
+            "Music",
+            "Romance"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Father",
+        "year": "2020",
+        "rating": "8.2",
+        "imdb_id": "tt10272386",
+        "director": "Florian Zeller",
+        "cast": [
+            "Anthony Hopkins",
+            "Olivia Colman"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery"
+        ],
+        "countries": [
+            "United Kingdom",
+            "France",
+            "United States"
+        ]
+    },
+    {
+        "title": "All About Eve",
+        "year": "1950",
+        "rating": "8.2",
+        "imdb_id": "tt0042192",
+        "director": "Joseph L. Mankiewicz",
+        "cast": [
+            "Bette Davis",
+            "Anne Baxter"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "year": "2013",
+        "rating": "8.2",
+        "imdb_id": "tt0993846",
+        "director": "Martin Scorsese",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Jonah Hill"
+        ],
+        "genres": [
+            "Biography",
+            "Comedy",
+            "Crime"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Green Book",
+        "year": "2018",
+        "rating": "8.2",
+        "imdb_id": "tt6966692",
+        "director": "Peter Farrelly",
+        "cast": [
+            "Viggo Mortensen",
+            "Mahershala Ali"
+        ],
+        "genres": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ],
+        "countries": [
+            "United States",
+            "China"
+        ]
+    },
+    {
+        "title": "Judgment at Nuremberg",
+        "year": "1961",
+        "rating": "8.2",
+        "imdb_id": "tt0055031",
+        "director": "Stanley Kramer",
+        "cast": [
+            "Spencer Tracy",
+            "Burt Lancaster"
+        ],
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Ran",
+        "year": "1985",
+        "rating": "8.2",
+        "imdb_id": "tt0089881",
+        "director": "Akira Kurosawa",
+        "cast": [
+            "Tatsuya Nakadai",
+            "Akira Terao"
+        ],
+        "genres": [
+            "Action",
+            "Drama",
+            "War"
+        ],
+        "countries": [
+            "Japan",
+            "France"
+        ]
+    },
+    {
+        "title": "Casino",
+        "year": "1995",
+        "rating": "8.2",
+        "imdb_id": "tt0112641",
+        "director": "Martin Scorsese",
+        "cast": [
+            "Robert De Niro",
+            "Sharon Stone"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "United States",
+            "France"
+        ]
+    },
+    {
+        "title": "The Truman Show",
+        "year": "1998",
+        "rating": "8.2",
+        "imdb_id": "tt0120382",
+        "director": "Peter Weir",
+        "cast": [
+            "Jim Carrey",
+            "Ed Harris"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "There Will Be Blood",
+        "year": "2007",
+        "rating": "8.2",
+        "imdb_id": "tt0469494",
+        "director": "Paul Thomas Anderson",
+        "cast": [
+            "Daniel Day-Lewis",
+            "Paul Dano"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Pan's Labyrinth",
+        "year": "2006",
+        "rating": "8.2",
+        "imdb_id": "tt0457430",
+        "director": "Guillermo del Toro",
+        "cast": [
+            "Ivana Baquero",
+            "Ariadna Gil"
+        ],
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "War"
+        ],
+        "countries": [
+            "Mexico",
+            "Spain"
+        ]
+    },
+    {
+        "title": "Unforgiven",
+        "year": "1992",
+        "rating": "8.2",
+        "imdb_id": "tt0105695",
+        "director": "Clint Eastwood",
+        "cast": [
+            "Clint Eastwood",
+            "Gene Hackman"
+        ],
+        "genres": [
+            "Drama",
+            "Western"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Sixth Sense",
+        "year": "1999",
+        "rating": "8.2",
+        "imdb_id": "tt0167404",
+        "director": "M. Night Shyamalan",
+        "cast": [
+            "Bruce Willis",
+            "Haley Joel Osment"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Shutter Island",
+        "year": "2010",
+        "rating": "8.2",
+        "imdb_id": "tt1130884",
+        "director": "Martin Scorsese",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Emily Mortimer"
+        ],
+        "genres": [
+            "Mystery",
+            "Thriller"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "A Beautiful Mind",
+        "year": "2001",
+        "rating": "8.2",
+        "imdb_id": "tt0268978",
+        "director": "Ron Howard",
+        "cast": [
+            "Russell Crowe",
+            "Ed Harris"
+        ],
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Jurassic Park",
+        "year": "1993",
+        "rating": "8.1",
+        "imdb_id": "tt0107290",
+        "director": "Steven Spielberg",
+        "cast": [
+            "Sam Neill",
+            "Laura Dern"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Yojimbo",
+        "year": "1961",
+        "rating": "8.1",
+        "imdb_id": "tt0055630",
+        "director": "Akira Kurosawa",
+        "cast": [
+            "Toshir\u00f4 Mifune",
+            "Eijir\u00f4 T\u00f4no"
+        ],
+        "genres": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "countries": [
+            "Japan"
+        ]
+    },
+    {
+        "title": "The Treasure of the Sierra Madre",
+        "year": "1948",
+        "rating": "8.1",
+        "imdb_id": "tt0040897",
+        "director": "John Huston",
+        "cast": [
+            "Humphrey Bogart",
+            "Walter Huston"
+        ],
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Western"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Monty Python and the Holy Grail",
+        "year": "1975",
+        "rating": "8.1",
+        "imdb_id": "tt0071853",
+        "director": "Terry Gilliam",
+        "cast": [
+            "Graham Chapman",
+            "John Cleese"
+        ],
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "countries": [
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "No Country for Old Men",
+        "year": "2007",
+        "rating": "8.1",
+        "imdb_id": "tt0477348",
+        "director": "Ethan Coen",
+        "cast": [
+            "Tommy Lee Jones",
+            "Javier Bardem"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Great Escape",
+        "year": "1963",
+        "rating": "8.1",
+        "imdb_id": "tt0057115",
+        "director": "John Sturges",
+        "cast": [
+            "Steve McQueen",
+            "James Garner"
+        ],
+        "genres": [
+            "Adventure",
+            "Drama",
+            "History"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Kill Bill: Vol. 1",
+        "year": "2003",
+        "rating": "8.1",
+        "imdb_id": "tt0266697",
+        "director": "Quentin Tarantino",
+        "cast": [
+            "Uma Thurman",
+            "David Carradine"
+        ],
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Rashomon",
+        "year": "1950",
+        "rating": "8.1",
+        "imdb_id": "tt0042876",
+        "director": "Akira Kurosawa",
+        "cast": [
+            "Toshir\u00f4 Mifune",
+            "Machiko Ky\u00f4"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "countries": [
+            "Japan"
+        ]
+    },
+    {
+        "title": "The Thing",
+        "year": "1982",
+        "rating": "8.1",
+        "imdb_id": "tt0084787",
+        "director": "John Carpenter",
+        "cast": [
+            "Kurt Russell",
+            "Wilford Brimley"
+        ],
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "United States",
+            "Canada"
+        ]
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "year": "2021",
+        "rating": "8.1",
+        "imdb_id": "tt10872600",
+        "director": "Jon Watts",
+        "cast": [
+            "Tom Holland",
+            "Zendaya"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Finding Nemo",
+        "year": "2003",
+        "rating": "8.1",
+        "imdb_id": "tt0266543",
+        "director": "Andrew Stanton",
+        "cast": [
+            "Albert Brooks",
+            "Ellen DeGeneres"
+        ],
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "countries": [
+            "United States",
+            "Japan"
+        ]
+    },
+    {
+        "title": "The Elephant Man",
+        "year": "1980",
+        "rating": "8.1",
+        "imdb_id": "tt0080678",
+        "director": "David Lynch",
+        "cast": [
+            "Anthony Hopkins",
+            "John Hurt"
+        ],
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Chinatown",
+        "year": "1974",
+        "rating": "8.1",
+        "imdb_id": "tt0071315",
+        "director": "Roman Polanski",
+        "cast": [
+            "Jack Nicholson",
+            "Faye Dunaway"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Raging Bull",
+        "year": "1980",
+        "rating": "8.1",
+        "imdb_id": "tt0081398",
+        "director": "Martin Scorsese",
+        "cast": [
+            "Robert De Niro",
+            "Cathy Moriarty"
+        ],
+        "genres": [
+            "Biography",
+            "Drama",
+            "Sport"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "V for Vendetta",
+        "year": "2005",
+        "rating": "8.1",
+        "imdb_id": "tt0434409",
+        "director": "James McTeigue",
+        "cast": [
+            "Hugo Weaving",
+            "Natalie Portman"
+        ],
+        "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom",
+            "Germany"
+        ]
+    },
+    {
+        "title": "Gone with the Wind",
+        "year": "1939",
+        "rating": "8.1",
+        "imdb_id": "tt0031381",
+        "director": "Victor Fleming",
+        "cast": [
+            "Clark Gable",
+            "Vivien Leigh"
+        ],
+        "genres": [
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "year": "1998",
+        "rating": "8.1",
+        "imdb_id": "tt0120735",
+        "director": "Guy Ritchie",
+        "cast": [
+            "Jason Flemyng",
+            "Dexter Fletcher"
+        ],
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "countries": [
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Dial M for Murder",
+        "year": "1954",
+        "rating": "8.1",
+        "imdb_id": "tt0046912",
+        "director": "Alfred Hitchcock",
+        "cast": [
+            "Ray Milland",
+            "Grace Kelly"
+        ],
+        "genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Inside Out",
+        "year": "2015",
+        "rating": "8.1",
+        "imdb_id": "tt2096673",
+        "director": "Pete Docter",
+        "cast": [
+            "Amy Poehler",
+            "Bill Hader"
+        ],
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "countries": [
+            "United States",
+            "Japan"
+        ]
+    },
+    {
+        "title": "The Secret in Their Eyes",
+        "year": "2009",
+        "rating": "8.1",
+        "imdb_id": "tt1305806",
+        "director": "Juan Jos\u00e9 Campanella",
+        "cast": [
+            "Ricardo Dar\u00edn",
+            "Soledad Villamil"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Romance"
+        ],
+        "countries": [
+            "Argentina",
+            "Spain"
+        ]
+    },
+    {
+        "title": "Howl's Moving Castle",
+        "year": "2004",
+        "rating": "8.1",
+        "imdb_id": "tt0347149",
+        "director": "Hayao Miyazaki",
+        "cast": [
+            "Chieko Baisho",
+            "Takuya Kimura"
+        ],
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "countries": [
+            "Japan"
+        ]
+    },
+    {
+        "title": "John Wick: Chapter 4",
+        "year": "2023",
+        "rating": "8.1",
+        "imdb_id": "tt10366206",
+        "director": "Chad Stahelski",
+        "cast": [
+            "Keanu Reeves",
+            "Laurence Fishburne"
+        ],
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "countries": [
+            "United States",
+            "Germany"
+        ]
+    },
+    {
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "year": "2017",
+        "rating": "8.1",
+        "imdb_id": "tt5027774",
+        "director": "Martin McDonagh",
+        "cast": [
+            "Frances McDormand",
+            "Woody Harrelson"
+        ],
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    {
+        "title": "Trainspotting",
+        "year": "1996",
+        "rating": "8.1",
+        "imdb_id": "tt0117951",
+        "director": "Danny Boyle",
+        "cast": [
+            "Ewan McGregor",
+            "Ewen Bremner"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "The Bridge on the River Kwai",
+        "year": "1957",
+        "rating": "8.1",
+        "imdb_id": "tt0050212",
+        "director": "David Lean",
+        "cast": [
+            "William Holden",
+            "Alec Guinness"
+        ],
+        "genres": [
+            "Adventure",
+            "Drama",
+            "War"
+        ],
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    {
+        "title": "Prisoners",
+        "year": "2013",
+        "rating": "8.1",
+        "imdb_id": "tt1392214",
+        "director": "Denis Villeneuve",
+        "cast": [
+            "Hugh Jackman",
+            "Jake Gyllenhaal"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Warrior",
+        "year": "2011",
+        "rating": "8.1",
+        "imdb_id": "tt1291584",
+        "director": "Gavin O'Connor",
+        "cast": [
+            "Tom Hardy",
+            "Nick Nolte"
+        ],
+        "genres": [
+            "Action",
+            "Drama",
+            "Sport"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Fargo",
+        "year": "1996",
+        "rating": "8.1",
+        "imdb_id": "tt0116282",
+        "director": "Joel Coen",
+        "cast": [
+            "William H. Macy",
+            "Frances McDormand"
+        ],
+        "genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Gran Torino",
+        "year": "2008",
+        "rating": "8.1",
+        "imdb_id": "tt1205489",
+        "director": "Clint Eastwood",
+        "cast": [
+            "Clint Eastwood",
+            "Bee Vang"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "Germany",
+            "United States"
+        ]
+    },
+    {
+        "title": "Catch Me If You Can",
+        "year": "2002",
+        "rating": "8.1",
+        "imdb_id": "tt0264464",
+        "director": "Steven Spielberg",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Tom Hanks"
+        ],
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "United States",
+            "Canada"
+        ]
+    },
+    {
+        "title": "My Neighbor Totoro",
+        "year": "1988",
+        "rating": "8.1",
+        "imdb_id": "tt0096283",
+        "director": "Hayao Miyazaki",
+        "cast": [
+            "Hitoshi Takagi",
+            "Noriko Hidaka"
+        ],
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "countries": [
+            "Japan"
+        ]
+    },
+    {
+        "title": "Million Dollar Baby",
+        "year": "2004",
+        "rating": "8.1",
+        "imdb_id": "tt0405159",
+        "director": "Clint Eastwood",
+        "cast": [
+            "Hilary Swank",
+            "Clint Eastwood"
+        ],
+        "genres": [
+            "Drama",
+            "Sport"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Children of Heaven",
+        "year": "1997",
+        "rating": "8.1",
+        "imdb_id": "tt0118849",
+        "director": "Majid Majidi",
+        "cast": [
+            "Mohammad Amir Naji",
+            "Amir Farrokh Hashemian"
+        ],
+        "genres": [
+            "Drama",
+            "Family",
+            "Sport"
+        ],
+        "countries": [
+            "Iran"
+        ]
+    },
+    {
+        "title": "Blade Runner",
+        "year": "1982",
+        "rating": "8.1",
+        "imdb_id": "tt0083658",
+        "director": "Ridley Scott",
+        "cast": [
+            "Harrison Ford",
+            "Rutger Hauer"
+        ],
+        "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Gold Rush",
+        "year": "1925",
+        "rating": "8.1",
+        "imdb_id": "tt0015864",
+        "director": "Charles Chaplin",
+        "cast": [
+            "Charles Chaplin",
+            "Mack Swain"
+        ],
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Klaus",
+        "year": "2019",
+        "rating": "8.1",
+        "imdb_id": "tt4729430",
+        "director": "Sergio Pablos",
+        "cast": [
+            "Jason Schwartzman",
+            "J.K. Simmons"
+        ],
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "countries": [
+            "Spain",
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "year": "2011",
+        "rating": "8.1",
+        "imdb_id": "tt1201607",
+        "director": "David Yates",
+        "cast": [
+            "Daniel Radcliffe",
+            "Emma Watson"
+        ],
+        "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    {
+        "title": "Before Sunrise",
+        "year": "1995",
+        "rating": "8.1",
+        "imdb_id": "tt0112471",
+        "director": "Richard Linklater",
+        "cast": [
+            "Ethan Hawke",
+            "Julie Delpy"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "countries": [
+            "United States",
+            "Austria"
+        ]
+    },
+    {
+        "title": "12 Years a Slave",
+        "year": "2013",
+        "rating": "8.1",
+        "imdb_id": "tt2024544",
+        "director": "Steve McQueen",
+        "cast": [
+            "Chiwetel Ejiofor",
+            "Michael Kenneth Williams"
+        ],
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Ben-Hur",
+        "year": "1959",
+        "rating": "8.1",
+        "imdb_id": "tt0052618",
+        "director": "William Wyler",
+        "cast": [
+            "Charlton Heston",
+            "Jack Hawkins"
+        ],
+        "genres": [
+            "Adventure",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "On the Waterfront",
+        "year": "1954",
+        "rating": "8.1",
+        "imdb_id": "tt0047296",
+        "director": "Elia Kazan",
+        "cast": [
+            "Marlon Brando",
+            "Karl Malden"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "year": "2014",
+        "rating": "8.1",
+        "imdb_id": "tt2278388",
+        "director": "Wes Anderson",
+        "cast": [
+            "Ralph Fiennes",
+            "F. Murray Abraham"
+        ],
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Crime"
+        ],
+        "countries": [
+            "United States",
+            "Germany"
+        ]
+    },
+    {
+        "title": "Gone Girl",
+        "year": "2014",
+        "rating": "8.1",
+        "imdb_id": "tt2267998",
+        "director": "David Fincher",
+        "cast": [
+            "Ben Affleck",
+            "Rosamund Pike"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Wild Strawberries",
+        "year": "1957",
+        "rating": "8.1",
+        "imdb_id": "tt0050986",
+        "director": "Ingmar Bergman",
+        "cast": [
+            "Victor Sj\u00f6str\u00f6m",
+            "Bibi Andersson"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "countries": [
+            "Sweden"
+        ]
+    },
+    {
+        "title": "The General",
+        "year": "1926",
+        "rating": "8.1",
+        "imdb_id": "tt0017925",
+        "director": "Clyde Bruckman",
+        "cast": [
+            "Buster Keaton",
+            "Marion Mack"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Barry Lyndon",
+        "year": "1975",
+        "rating": "8.1",
+        "imdb_id": "tt0072684",
+        "director": "Stanley Kubrick",
+        "cast": [
+            "Ryan O'Neal",
+            "Marisa Berenson"
+        ],
+        "genres": [
+            "Adventure",
+            "Drama",
+            "War"
+        ],
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    {
+        "title": "In the Name of the Father",
+        "year": "1993",
+        "rating": "8.1",
+        "imdb_id": "tt0107207",
+        "director": "Jim Sheridan",
+        "cast": [
+            "Daniel Day-Lewis",
+            "Pete Postlethwaite"
+        ],
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "Ireland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "The Deer Hunter",
+        "year": "1978",
+        "rating": "8.1",
+        "imdb_id": "tt0077416",
+        "director": "Michael Cimino",
+        "cast": [
+            "Robert De Niro",
+            "Christopher Walken"
+        ],
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "The Third Man",
+        "year": "1949",
+        "rating": "8.1",
+        "imdb_id": "tt0041959",
+        "director": "Carol Reed",
+        "cast": [
+            "Orson Welles",
+            "Joseph Cotten"
+        ],
+        "genres": [
+            "Film-Noir",
+            "Mystery",
+            "Thriller"
+        ],
+        "countries": [
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Hacksaw Ridge",
+        "year": "2016",
+        "rating": "8.1",
+        "imdb_id": "tt2119532",
+        "director": "Mel Gibson",
+        "cast": [
+            "Andrew Garfield",
+            "Sam Worthington"
+        ],
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "countries": [
+            "Australia",
+            "United States",
+            "United Kingdom",
+            "China"
+        ]
+    },
+    {
+        "title": "The Wages of Fear",
+        "year": "1953",
+        "rating": "8.1",
+        "imdb_id": "tt0046268",
+        "director": "Henri-Georges Clouzot",
+        "cast": [
+            "Yves Montand",
+            "Charles Vanel"
+        ],
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Thriller"
+        ],
+        "countries": [
+            "France",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Memories of Murder",
+        "year": "2003",
+        "rating": "8.1",
+        "imdb_id": "tt0353969",
+        "director": "Bong Joon Ho",
+        "cast": [
+            "Song Kang-ho",
+            "Kim Sang-kyung"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "countries": [
+            "South Korea"
+        ]
+    },
+    {
+        "title": "Sherlock Jr.",
+        "year": "1924",
+        "rating": "8.1",
+        "imdb_id": "tt0015324",
+        "director": "Buster Keaton",
+        "cast": [
+            "Buster Keaton",
+            "Kathryn McGuire"
+        ],
+        "genres": [
+            "Action",
+            "Comedy",
+            "Romance"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Wild Tales",
+        "year": "2014",
+        "rating": "8.1",
+        "imdb_id": "tt3011894",
+        "director": "Dami\u00e1n Szifron",
+        "cast": [
+            "Dar\u00edo Grandinetti",
+            "Mar\u00eda Marull"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Thriller"
+        ],
+        "countries": [
+            "Argentina",
+            "Spain",
+            "France",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Mr. Smith Goes to Washington",
+        "year": "1939",
+        "rating": "8.1",
+        "imdb_id": "tt0031679",
+        "director": "Frank Capra",
+        "cast": [
+            "James Stewart",
+            "Jean Arthur"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "year": "2015",
+        "rating": "8.1",
+        "imdb_id": "tt1392190",
+        "director": "George Miller",
+        "cast": [
+            "Tom Hardy",
+            "Charlize Theron"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "Australia"
+        ]
+    },
+    {
+        "title": "Mary and Max",
+        "year": "2009",
+        "rating": "8.1",
+        "imdb_id": "tt0978762",
+        "director": "Adam Elliot",
+        "cast": [
+            "Toni Collette",
+            "Philip Seymour Hoffman"
+        ],
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "countries": [
+            "Australia"
+        ]
+    },
+    {
+        "title": "The Seventh Seal",
+        "year": "1957",
+        "rating": "8.1",
+        "imdb_id": "tt0050976",
+        "director": "Ingmar Bergman",
+        "cast": [
+            "Max von Sydow",
+            "Gunnar Bj\u00f6rnstrand"
+        ],
+        "genres": [
+            "Drama",
+            "Fantasy"
+        ],
+        "countries": [
+            "Sweden"
+        ]
+    },
+    {
+        "title": "How to Train Your Dragon",
+        "year": "2010",
+        "rating": "8.1",
+        "imdb_id": "tt0892769",
+        "director": "Dean DeBlois",
+        "cast": [
+            "Jay Baruchel",
+            "Gerard Butler"
+        ],
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "countries": [
+            "United States",
+            "France"
+        ]
+    },
+    {
+        "title": "Monsters, Inc.",
+        "year": "2001",
+        "rating": "8.1",
+        "imdb_id": "tt0198781",
+        "director": "Pete Docter",
+        "cast": [
+            "Billy Crystal",
+            "John Goodman"
+        ],
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "countries": [
+            "United States",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Dead Poets Society",
+        "year": "1989",
+        "rating": "8.1",
+        "imdb_id": "tt0097165",
+        "director": "Peter Weir",
+        "cast": [
+            "Robin Williams",
+            "Robert Sean Leonard"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Jaws",
+        "year": "1975",
+        "rating": "8.1",
+        "imdb_id": "tt0073195",
+        "director": "Steven Spielberg",
+        "cast": [
+            "Roy Scheider",
+            "Robert Shaw"
+        ],
+        "genres": [
+            "Adventure",
+            "Thriller"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Room",
+        "year": "2015",
+        "rating": "8.1",
+        "imdb_id": "tt3170832",
+        "director": "Lenny Abrahamson",
+        "cast": [
+            "Brie Larson",
+            "Jacob Tremblay"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "countries": [
+            "Ireland",
+            "Canada",
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    {
+        "title": "The Big Lebowski",
+        "year": "1998",
+        "rating": "8.1",
+        "imdb_id": "tt0118715",
+        "director": "Joel Coen",
+        "cast": [
+            "Jeff Bridges",
+            "John Goodman"
+        ],
+        "genres": [
+            "Comedy",
+            "Crime"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Tokyo Story",
+        "year": "1953",
+        "rating": "8.1",
+        "imdb_id": "tt0046438",
+        "director": "Yasujir\u00f4 Ozu",
+        "cast": [
+            "Chish\u00fb Ry\u00fb",
+            "Chieko Higashiyama"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "Japan"
+        ]
+    },
+    {
+        "title": "The Passion of Joan of Arc",
+        "year": "1928",
+        "rating": "8.1",
+        "imdb_id": "tt0019254",
+        "director": "Carl Theodor Dreyer",
+        "cast": [
+            "Maria Falconetti",
+            "Eugene Silvain"
+        ],
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "countries": [
+            "France"
+        ]
+    },
+    {
+        "title": "Ford v Ferrari",
+        "year": "2019",
+        "rating": "8.1",
+        "imdb_id": "tt1950186",
+        "director": "James Mangold",
+        "cast": [
+            "Matt Damon",
+            "Christian Bale"
+        ],
+        "genres": [
+            "Action",
+            "Biography",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Hotel Rwanda",
+        "year": "2004",
+        "rating": "8.0",
+        "imdb_id": "tt0395169",
+        "director": "Terry George",
+        "cast": [
+            "Don Cheadle",
+            "Sophie Okonedo"
+        ],
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "countries": [
+            "United Kingdom",
+            "South Africa",
+            "Italy",
+            "United States"
+        ]
+    },
+    {
+        "title": "Rocky",
+        "year": "1976",
+        "rating": "8.0",
+        "imdb_id": "tt0075148",
+        "director": "John G. Avildsen",
+        "cast": [
+            "Sylvester Stallone",
+            "Talia Shire"
+        ],
+        "genres": [
+            "Drama",
+            "Sport"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Platoon",
+        "year": "1986",
+        "rating": "8.0",
+        "imdb_id": "tt0091763",
+        "director": "Oliver Stone",
+        "cast": [
+            "Charlie Sheen",
+            "Tom Berenger"
+        ],
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Ratatouille",
+        "year": "2007",
+        "rating": "8.0",
+        "imdb_id": "tt0382932",
+        "director": "Brad Bird",
+        "cast": [
+            "Brad Garrett",
+            "Lou Romano"
+        ],
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Spotlight",
+        "year": "2015",
+        "rating": "8.0",
+        "imdb_id": "tt1895587",
+        "director": "Tom McCarthy",
+        "cast": [
+            "Mark Ruffalo",
+            "Michael Keaton"
+        ],
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Logan",
+        "year": "2017",
+        "rating": "8.0",
+        "imdb_id": "tt3315342",
+        "director": "James Mangold",
+        "cast": [
+            "Hugh Jackman",
+            "Patrick Stewart"
+        ],
+        "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Terminator",
+        "year": "1984",
+        "rating": "8.0",
+        "imdb_id": "tt0088247",
+        "director": "James Cameron",
+        "cast": [
+            "Arnold Schwarzenegger",
+            "Linda Hamilton"
+        ],
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    {
+        "title": "Stand by Me",
+        "year": "1986",
+        "rating": "8.0",
+        "imdb_id": "tt0092005",
+        "director": "Rob Reiner",
+        "cast": [
+            "Wil Wheaton",
+            "River Phoenix"
+        ],
+        "genres": [
+            "Adventure",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Rush",
+        "year": "2013",
+        "rating": "8.0",
+        "imdb_id": "tt1979320",
+        "director": "Ron Howard",
+        "cast": [
+            "Daniel Br\u00fchl",
+            "Chris Hemsworth"
+        ],
+        "genres": [
+            "Action",
+            "Biography",
+            "Drama"
+        ],
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    {
+        "title": "Network",
+        "year": "1976",
+        "rating": "8.0",
+        "imdb_id": "tt0074958",
+        "director": "Sidney Lumet",
+        "cast": [
+            "Faye Dunaway",
+            "William Holden"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Before Sunset",
+        "year": "2004",
+        "rating": "8.0",
+        "imdb_id": "tt0381681",
+        "director": "Richard Linklater",
+        "cast": [
+            "Ethan Hawke",
+            "Julie Delpy"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "countries": [
+            "United States",
+            "France"
+        ]
+    },
+    {
+        "title": "Into the Wild",
+        "year": "2007",
+        "rating": "8.0",
+        "imdb_id": "tt0758758",
+        "director": "Sean Penn",
+        "cast": [
+            "Emile Hirsch",
+            "Vince Vaughn"
+        ],
+        "genres": [
+            "Adventure",
+            "Biography",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Wizard of Oz",
+        "year": "1939",
+        "rating": "8.0",
+        "imdb_id": "tt0032138",
+        "director": "Victor Fleming",
+        "cast": [
+            "Judy Garland",
+            "Frank Morgan"
+        ],
+        "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Best Years of Our Lives",
+        "year": "1946",
+        "rating": "8.0",
+        "imdb_id": "tt0036868",
+        "director": "William Wyler",
+        "cast": [
+            "Myrna Loy",
+            "Dana Andrews"
+        ],
+        "genres": [
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Groundhog Day",
+        "year": "1993",
+        "rating": "8.0",
+        "imdb_id": "tt0107048",
+        "director": "Harold Ramis",
+        "cast": [
+            "Bill Murray",
+            "Andie MacDowell"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Exorcist",
+        "year": "1973",
+        "rating": "8.0",
+        "imdb_id": "tt0070047",
+        "director": "William Friedkin",
+        "cast": [
+            "Ellen Burstyn",
+            "Max von Sydow"
+        ],
+        "genres": [
+            "Horror"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Incredibles",
+        "year": "2004",
+        "rating": "8.0",
+        "imdb_id": "tt0317705",
+        "director": "Brad Bird",
+        "cast": [
+            "Craig T. Nelson",
+            "Samuel L. Jackson"
+        ],
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "countries": [
+            "United States",
+            "Japan"
+        ]
+    },
+    {
+        "title": "La haine",
+        "year": "1995",
+        "rating": "8.0",
+        "imdb_id": "tt0113247",
+        "director": "Mathieu Kassovitz",
+        "cast": [
+            "Vincent Cassel",
+            "Hubert Kound\u00e9"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "France"
+        ]
+    },
+    {
+        "title": "To Be or Not to Be",
+        "year": "1942",
+        "rating": "8.0",
+        "imdb_id": "tt0035446",
+        "director": "Ernst Lubitsch",
+        "cast": [
+            "Carole Lombard",
+            "Jack Benny"
+        ],
+        "genres": [
+            "Comedy",
+            "Romance",
+            "War"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "year": "2003",
+        "rating": "8.0",
+        "imdb_id": "tt0325980",
+        "director": "Gore Verbinski",
+        "cast": [
+            "Johnny Depp",
+            "Geoffrey Rush"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Pather Panchali",
+        "year": "1955",
+        "rating": "8.0",
+        "imdb_id": "tt0048473",
+        "director": "Satyajit Ray",
+        "cast": [
+            "Kanu Bannerjee",
+            "Karuna Bannerjee"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "India"
+        ]
+    },
+    {
+        "title": "Hachi: A Dog's Tale",
+        "year": "2009",
+        "rating": "8.0",
+        "imdb_id": "tt1028532",
+        "director": "Lasse Hallstr\u00f6m",
+        "cast": [
+            "Richard Gere",
+            "Joan Allen"
+        ],
+        "genres": [
+            "Biography",
+            "Drama",
+            "Family"
+        ],
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "year": "1940",
+        "rating": "8.0",
+        "imdb_id": "tt0032551",
+        "director": "John Ford",
+        "cast": [
+            "Henry Fonda",
+            "Jane Darwell"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Battle of Algiers",
+        "year": "1966",
+        "rating": "8.0",
+        "imdb_id": "tt0058946",
+        "director": "Gillo Pontecorvo",
+        "cast": [
+            "Brahim Hadjadj",
+            "Jean Martin"
+        ],
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "countries": [
+            "Italy",
+            "Algeria"
+        ]
+    },
+    {
+        "title": "Jai Bhim",
+        "year": "2021",
+        "rating": "8.0",
+        "imdb_id": "tt15097216",
+        "director": "T.J. Gnanavel",
+        "cast": [
+            "Suriya",
+            "Lijo Mol Jose"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "countries": [
+            "India"
+        ]
+    },
+    {
+        "title": "My Father and My Son",
+        "year": "2005",
+        "rating": "8.0",
+        "imdb_id": "tt0476735",
+        "director": "\u00c7agan Irmak",
+        "cast": [
+            "\u00c7etin Tekindor",
+            "Fikret Kuskan"
+        ],
+        "genres": [
+            "Drama",
+            "Family"
+        ],
+        "countries": [
+            "Turkey"
+        ]
+    },
+    {
+        "title": "Amores Perros",
+        "year": "2000",
+        "rating": "8.0",
+        "imdb_id": "tt0245712",
+        "director": "Alejandro G. I\u00f1\u00e1rritu",
+        "cast": [
+            "Emilio Echevarr\u00eda",
+            "Gael Garc\u00eda Bernal"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "countries": [
+            "Mexico"
+        ]
+    },
+    {
+        "title": "Rebecca",
+        "year": "1940",
+        "rating": "8.0",
+        "imdb_id": "tt0032976",
+        "director": "Alfred Hitchcock",
+        "cast": [
+            "Laurence Olivier",
+            "Joan Fontaine"
+        ],
+        "genres": [
+            "Drama",
+            "Film-Noir",
+            "Mystery"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Cool Hand Luke",
+        "year": "1967",
+        "rating": "8.0",
+        "imdb_id": "tt0061512",
+        "director": "Stuart Rosenberg",
+        "cast": [
+            "Paul Newman",
+            "George Kennedy"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The Handmaiden",
+        "year": "2016",
+        "rating": "8.0",
+        "imdb_id": "tt4016934",
+        "director": "Park Chan-wook",
+        "cast": [
+            "Kim Min-hee",
+            "Ha Jung-woo"
+        ],
+        "genres": [
+            "Drama",
+            "Romance",
+            "Thriller"
+        ],
+        "countries": [
+            "South Korea"
+        ]
+    },
+    {
+        "title": "The Sound of Music",
+        "year": "1965",
+        "rating": "8.0",
+        "imdb_id": "tt0059742",
+        "director": "Robert Wise",
+        "cast": [
+            "Julie Andrews",
+            "Christopher Plummer"
+        ],
+        "genres": [
+            "Biography",
+            "Drama",
+            "Family"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "The 400 Blows",
+        "year": "1959",
+        "rating": "8.0",
+        "imdb_id": "tt0053198",
+        "director": "Fran\u00e7ois Truffaut",
+        "cast": [
+            "Jean-Pierre L\u00e9aud",
+            "Albert R\u00e9my"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "France"
+        ]
+    },
+    {
+        "title": "It Happened One Night",
+        "year": "1934",
+        "rating": "8.0",
+        "imdb_id": "tt0025316",
+        "director": "Frank Capra",
+        "cast": [
+            "Clark Gable",
+            "Claudette Colbert"
+        ],
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "countries": [
+            "United States"
+        ]
+    },
+    {
+        "title": "Persona",
+        "year": "1966",
+        "rating": "8.0",
+        "imdb_id": "tt0060827",
+        "director": "Ingmar Bergman",
+        "cast": [
+            "Bibi Andersson",
+            "Liv Ullmann"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "countries": [
+            "Sweden"
+        ]
+    },
+    {
+        "title": "Life of Brian",
+        "year": "1979",
+        "rating": "8.0",
+        "imdb_id": "tt0079470",
+        "director": "Terry Jones",
+        "cast": [
+            "Graham Chapman",
+            "John Cleese"
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "countries": [
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "The Iron Giant",
+        "year": "1999",
+        "rating": "8.0",
+        "imdb_id": "tt0129167",
+        "director": "Brad Bird",
+        "cast": [
+            "Eli Marienthal",
+            "Harry Connick Jr."
+        ],
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "countries": [
+            "United States",
+            "Denmark"
+        ]
+    },
+    {
+        "title": "The Help",
+        "year": "2011",
+        "rating": "8.0",
+        "imdb_id": "tt1454029",
+        "director": "Tate Taylor",
+        "cast": [
+            "Viola Davis",
+            "Emma Stone"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "United States",
+            "India"
+        ]
+    },
+    {
+        "title": "Aladdin",
+        "year": "1992",
+        "rating": "8.0",
+        "imdb_id": "tt0103639",
+        "director": "Ron Clements",
+        "cast": [
+            "Scott Weinger",
+            "Robin Williams"
+        ],
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "countries": [
+            "United States",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Dersu Uzala",
+        "year": "1975",
+        "rating": "8.0",
+        "imdb_id": "tt0071411",
+        "director": "Akira Kurosawa",
+        "cast": [
+            "Maksim Munzuk",
+            "Yuriy Solomin"
+        ],
+        "genres": [
+            "Adventure",
+            "Biography",
+            "Drama"
+        ],
+        "countries": [
+            "Soviet Union",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Dances with Wolves",
+        "year": "1990",
+        "rating": "8.0",
+        "imdb_id": "tt0099348",
+        "director": "Kevin Costner",
+        "cast": [
+            "Kevin Costner",
+            "Mary McDonnell"
+        ],
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Western"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom"
+        ]
+    }
+]
