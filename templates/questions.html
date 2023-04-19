@@ -1,0 +1,39 @@
+ <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf8"/>
+    <title>HTML Forms Demo</title>
+</head>
+    <form action='/results' method='POST'>
+        <p>
+        Do you prefer movies before 1990? <br/>
+            <input type='radio' name='ans1' 
+                    value='y' checked='checked'/>Yes <br/>
+            <input type='radio' name='ans1' 
+                    value='n'/>No <br/>
+        </p>
+        <p>
+        Do you prefer movies with a rating lower than 8.3? <br/>
+            <input type='radio' name='ans2'
+                value='y' checked='checked'/>Yes <br/>
+            <input type='radio' name='ans2'
+                value='n'/>No<br/>
+        </p>
+        <p>
+        Do you prefer drama movies? <br/>
+            <input type='radio' name='ans3'
+                value='y' checked='checked'/>Yes <br/>
+            <input type='radio' name='ans3'
+                value='n'/>No<br/>
+        </p>
+        <p>
+        Do you prefer movies showed in the United States? <br/>
+            <input type='radio' name='ans4'
+                value='y' checked='checked'/>Yes <br/>
+            <input type='radio' name='ans4'
+                value='n'/>No <br/>
+        </p>
+        <input type='submit' value='Get Recommendations'/>
+    </form>
+</body>
+</html>

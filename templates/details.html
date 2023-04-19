@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+    <meta charset="UTF8"/>
+    <title>Movie Recommendation Results</title>
+</head>
+<body>
+    <h1>Here's some information about "{{title}}":</h1>
+    <p>Title: {{title}}</p>
+    <p>Director: {{director}}</p>
+    <p>Year: {{year}}</p>
+    <p>Genre: {{genre}}</p>
+    <p>Rating: {{rating}}</p>
+    <p>Countries: {{countries}}</p>
+    <p>Cast: {{cast}}</p>
+    <p>Imdb_id: {{imdb_id}}</p>
+    {{plot_div | safe}}
+    <form action="/handle_form" method="POST">
+        <p><a href="/recommendation">Give me more movie recommendations!</a></p>
+    </form>
+</body>
+</html>
